@@ -1,0 +1,12 @@
+{
+    "name": "Musuem Indonesia",
+    "short_name": "MusuemIndonesia",
+    "start_url": "Gallery.php",
+    "display": "standalone",
+    "background_color": "#fdfdfd",
+    "theme_color": "#db4938",
+    "orientation": "portrait-primary",
+    "icons": [
+      
+    ]
+  }
